@@ -1,0 +1,152 @@
+body{
+    background: #f9fcff;
+}
+
+#allrecords {
+overflow: visible !important;
+z-index: 99;
+position: relative;
+}
+html {
+scroll-behavior: smooth;
+overflow-x: hidden;
+}
+::-webkit-scrollbar {
+width: 7px;
+background-color: #F9FCFF;
+}
+::-webkit-scrollbar-thumb {
+border-radius: 10px;
+background-color: #C1C1C1;
+}
+::-webkit-scrollbar-track {
+-webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.2);
+border-radius: 10px;
+background-color: #F9FCFF;
+}
+
+#tild{
+    background: #f9fcff;
+}
+
+#welcome{
+    color: #1c1c1c;
+}
+
+#plash-one{
+    background-color: #fff;
+}
+
+#plash-two{
+    background-color: #fff;
+}
+
+#students{
+    color: #41416e;
+}
+
+#timer{
+    color: #1c1c1c;
+}
+
+#sel{
+    background-color: #ebebeb;
+}
+
+#select{
+    background-color: #ebebeb;
+    color: #1c1c1c;
+}
+
+#anec{
+    color: #1c1c1c;
+}
+
+#plash-anec{
+    background-color: #fff;
+}
+
+#anec-text{
+    color: #41416e;
+}
+
+#plash-slider{
+    background-color: #fff;
+}
+
+#photo-text{
+    color: #41416e;
+}
+
+#next{
+    background-image:url('https://static.tildacdn.com/tild3732-3937-4939-b737-383933346663/Group_26.svg');
+}
+
+#prev{
+    background-image:url('https://static.tildacdn.com/tild6465-6266-4335-b839-626632353664/Group_26.svg');
+}
+
+#best{
+    background-color: #fff;
+}
+
+#menu{
+    background-color: #fff;
+    border-radius: 20px;
+}
+
+#users{
+    background-image:url('https://static.tildacdn.com/tild3733-3432-4934-b631-643231373463/users-three.svg');
+}
+
+#image-menu{
+    background-image:url('https://static.tildacdn.com/tild6563-3066-4363-b761-326538303536/image.svg');
+}
+
+#map{
+    background-image:url('https://static.tildacdn.com/tild3538-6538-4666-b530-373362393735/map.svg');
+}
+
+#star{
+    background-image:url('https://static.tildacdn.com/tild3536-3263-4463-b961-613138653630/star.svg');
+}
+
+#line{
+    background-image:url('https://static.tildacdn.com/tild3332-3063-4033-b837-316462366430/Vector_1.svg');
+}
+
+#heart{
+    background-image:url('https://static.tildacdn.com/tild3030-3436-4164-b362-333164626232/heart.svg');
+}
+
+#clock{
+    background-image:url('https://static.tildacdn.com/tild3935-6339-4232-b038-306531633063/clock.svg');
+}
+
+#user{
+    background-image:url('https://static.tildacdn.com/tild3531-6561-4763-b334-386463616430/users.svg');
+}
+
+#reports{
+    color: #41416E;
+}
+
+#overview{
+    color: #41416E;
+}
+
+#chart-pie{
+    background-image:url('https://static.tildacdn.com/tild6564-3131-4366-b138-376334636537/chart-pie.svg');
+}
+
+#file{
+    background-image:url('https://static.tildacdn.com/tild3463-3866-4366-b036-613634646565/file.svg');
+}
+
+#next-student{
+    background-image:url('https://static.tildacdn.com/tild6539-6264-4539-a636-316230366462/Group_26.svg');
+}
+
+#next-gallery{
+    background-image:url('https://static.tildacdn.com/tild6539-6264-4539-a636-316230366462/Group_26.svg');
+}
